@@ -166,7 +166,7 @@ function App() {
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-outline-dark white-text"
-                href="https://www.google.com"
+                href="https://chaimass6.github.io/signify/details"
               >
                 <i class="fa-solid fa-circle-info"></i>Search for song/artist data
               </a>
